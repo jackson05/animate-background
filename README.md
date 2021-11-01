@@ -1,2 +1,2 @@
 # animate-background
-Awesomme animate wave colors background 
+Awesome wind shape animated color background
